@@ -1,8 +1,11 @@
 # 🪐 TAREA #1: MI VIAJE EN STELLAR
 
 **Nombre:** Mariana Jobse
+
 **Email:** [jobse.mariana@gmail.com](mailto:jobse.mariana@gmail.com)
+
 **UserName de Telegram:** [@Marianavero](https://t.me/Marianavero)
+
 **Tu wallet Freighter:** `GDOU3AWNJFQDLVAKT6UL57MQ473DGROEEENBW4VWGHGE34VHYXXCHIQV`
 
 ---
@@ -12,8 +15,11 @@
 ### 🔹 TRANSACCIÓN A: Una compañera del equipo de 4
 
 **Cuenta Original:** `GCMUDHTX6GGWTWECJ2QUAK4FARS2SAJVQQGKA7OTNN2I4VZ24MDCJVZR`
+
 **Cuenta de la compañera:** Arlette Salas
+
 **Transaction Hash:** `a1f119def06eaafdd534cd9bdb6b178cc2bece5d32f83a57a58e4bd3cf5c3381`
+
 
 📷 **Imagen 1:**
 ![Imagen 1 - Transacción A](attachment:/mnt/data/imagen1.png)
@@ -23,8 +29,11 @@
 ### 🔹 TRANSACCIÓN B: Envío con Memo Personalizado
 
 **Cuenta 1:** `GCMUDHTX6GGWTWECJ2QUAK4FARS2SAJVQQGKA7OTNN2I4VZ24MDCJVZR`
+
 **Cuenta 2:** `GBKZ64TZYWBYUSWVFYSVAAWTQXVE7H2ZGN3UNRK3P247NGJDZXFDZSHA`
+
 **Transaction Hash:** `79c22d0d42cfaa8fd79c623b68ae6226c35b3c1755ecd3b8c00e8116facf9672`
+
 **Memo (TEXT):** “Para el helado de Vippento”
 
 📷 **Imagen 2:**
