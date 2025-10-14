@@ -16,7 +16,8 @@
 **Transaction Hash:** `a1f119def06eaafdd534cd9bdb6b178cc2bece5d32f83a57a58e4bd3cf5c3381`
 
 📷 **Imagen 1:**
-![Imagen 1 - Transacción A](attachment:/mnt/data/imagen1.png)
+
+![Imagen 1 - Transacción A](imagen1.png)
 
 ---
 
@@ -28,7 +29,8 @@
 **Memo (TEXT):** “Para el helado de Vippento”
 
 📷 **Imagen 2:**
-![Imagen 2 - Transacción B](attachment:/mnt/data/imagen2.png)
+
+![Imagen 2 - Transacción B](imagen2.png)
 
 ---
 
