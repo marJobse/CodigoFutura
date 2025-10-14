@@ -46,8 +46,10 @@
 ### ✏️ RELATO: _“Stellar en Mi Mundo”_
 
 Alquilo el departamento de mi amigo en La Plata. Él se encuentra viviendo en Barcelona y le pago mensualmente el alquiler a través de **Western Union**.
+
 De los **500.000 ARS** del alquiler, tengo un **5% de comisión**, entonces tengo que calcular cuánto mandarle para que le lleguen netos 500.000.
 Lo tengo automatizado, pero no es nada automático 😅.
+
 Con **Stellar**, no habría que mandar más dinero porque la comisión es **insignificante**.
 
 ---
